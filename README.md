@@ -25,7 +25,7 @@ Email: tanishq9304@gmail.com
 [[DedPass]](https://github.com/tanishqnirwan/dedpass)
 : A Python Tkinter-based phishing program with encryption and admin/employee modes.
 
-[[DedPass]](https://github.com/tanishqnirwan/todo-mern-app) : A TODO list application built with react node and express with Nosql database.
+[[To-Do]](https://github.com/tanishqnirwan/todo-mern-app) : A TODO list application built with react node and express with Nosql database.
 
 
 Feel free to check it out and provide feedback!
